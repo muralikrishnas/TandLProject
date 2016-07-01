@@ -1,0 +1,43 @@
+.tiptext {
+
+}
+
+/*body{*/
+
+  /*background: #d2d6de;*/
+/*}*/
+/*.container{
+	margin: 0;
+	padding: 0;
+
+}
+.wrapper {
+	margin: 0;
+	bottom: 0;
+width:105%;
+height: 100%;
+
+    }
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 100%;
+
+  }
+ }*/
+/*div .wrapper,*/
+/*.hold-transition,*/
+/*.skin-blue,*/
+/*.layout-top-nav*/
+/*{*/
+/*background: #d2d6de;*/
+/*}*/
+.description {
+    display:block;
+    position:absolute;
+    top: 0;
+	color: #333;
+	border: 3px solid #d2d6de;
+}
+.table a{
+  cursor:pointer;
+}
